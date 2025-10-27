@@ -1,0 +1,4 @@
+kaggle
+__pycache__/
+*.pyc
+recorded_audio.wav
